@@ -1,0 +1,46 @@
+h2{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: grey
+}
+
+form{
+    text-align:  center;
+    font-size: 30px;
+}
+
+img{
+    opacity: 0.8;
+}
+
+div1{
+    position: absolute ;
+    top: 300 px;
+    right: 200px;
+    width: 200px;
+}
+div2{
+    position: absolute ;
+    top: 300 px;
+    right: 600px;
+    width: 200px;
+}
+div3{
+    position: absolute ;
+    top: 300 px;
+    right: 1200px;
+    width: 200px;
+}
+div4{
+    position: absolute ;
+    top: 300 px;
+    right: 1600px;
+    width: 200px;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+}
